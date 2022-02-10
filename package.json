@@ -1,9 +1,9 @@
 {
   "name": "v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "acd",
   "main": "index.js",
-  "homepage": "https://angelocabanerodedicatoria93.github.io/portfolio-003",
+  "homepage": "https://angelocdz.github.io/portfolio-003-acd",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
