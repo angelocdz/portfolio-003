@@ -113,6 +113,9 @@ main {
     background: lighten($primary-color, 5);
     padding: 0.5rem;
     border-bottom: $secondary-color 5px solid;
+
+    h4 { margin-bottom: 0; }
+    h6 { margin-top: 0; }
   }
 }
 
@@ -194,7 +197,7 @@ main {
 
 #about {
   h2 {
-    font-size: 1.3rem;
+    font-size: 2rem;
   }
 
   .about-info {
